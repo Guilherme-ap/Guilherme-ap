@@ -22,4 +22,4 @@ Olá me chamo Guilherme
 
 </div>
 
- ![Snake animation](https://github.com/Guilherme-ap/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Guilherme-ap/Guilherme-ap/blob/output/github-contribution-grid-snake.svg)
