@@ -19,8 +19,8 @@ Olá me chamo Guilherme
   <hr>
   
  <div>
-<a href="https://www.linkedin.com/in/guilherme-alves-pereira-928707221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="(11)910576589"><img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-png-0-2048x2048.png" target="_blank" height:"30" width="60"></a>
+<a href="https://www.linkedin.com/in/guilherme-alves-pereira-928707221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a> 
+<a href="(11)910576589"><img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-png-0-2048x2048.png" target="_blank" height:"30" width="60" align="center"></a>
 </div>
 
  ![Snake animation](https://github.com/Guilherme-ap/Guilherme-ap/blob/output/github-contribution-grid-snake.svg)
