@@ -20,7 +20,7 @@ Olá me chamo Guilherme
   
  <div>
 <a href="https://www.linkedin.com/in/guilherme-alves-pereira-928707221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="(11)910576589"><img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-png-0-2048x2048.png" target="_Blank"></a>
+<a href="(11)910576589"><img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-png-0-2048x2048.png" target="_blank" height:"120" width="120"></a>
 </div>
 
  ![Snake animation](https://github.com/Guilherme-ap/Guilherme-ap/blob/output/github-contribution-grid-snake.svg)
