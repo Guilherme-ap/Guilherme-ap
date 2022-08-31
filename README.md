@@ -1,11 +1,12 @@
 Olá me chamo Guilherme
 
 👨🏼‍🎓 Sou aluno do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo em Guarulhos.
-
+<hr>
 <div align="center">
   <a href="https://github.com/Guilherme-ap">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-ap&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
 </div>
+  <hr>
 📚studying:<br><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
