@@ -17,10 +17,10 @@ Olá me chamo Guilherme
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <br>
   <hr>
-   ######
+  
  <div>
 <a href="https://www.linkedin.com/in/guilherme-alves-pereira-928707221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+<a href="(11)910576589"><img src="https://pt.m.wikipedia.org/wiki/Ficheiro:WhatsApp.svg" target="_Blank"></a>
 </div>
 
  ![Snake animation](https://github.com/Guilherme-ap/Guilherme-ap/blob/output/github-contribution-grid-snake.svg)
