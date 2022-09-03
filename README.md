@@ -1,4 +1,4 @@
-
+<a href="https://github.com/Guilherme-ap">
 <h1 align="center"><i>Hi 😀, I'm Gui <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></i><h1>
 <h3 align="auto"> Welcome to my profile!</h3>
 👨🏼‍🎓 Sou aluno do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo em Guarulhos.
@@ -40,6 +40,5 @@
   <img src="https://i.imgur.com/SOHOBEi.gif">
   </div>
   <div>
-    </div>
 ![Snake animation](https://github.com/Guilherme-ap/Guilherme-ap/blob/output/github-contribution-grid-snake.svg)
   </div>
