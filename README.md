@@ -33,7 +33,7 @@
   <img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-png-0-2048x2048.png" target="_blank" height:"30" width="60" align="center">
    </a>
    <a href="https://www.instagram.com/gui_moe/">
-     <img src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_960_720.jpg" target="_blank" height:"30" width="50" align="center">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" target="_blank" height:"30" width="50" align="center">
    </a>
 
 <div align="right">
