@@ -39,6 +39,5 @@
 <div align="right">
   <img src="https://i.imgur.com/SOHOBEi.gif">
   </div>
-  <div>
+
 ![Snake animation](https://github.com/Guilherme-ap/Guilherme-ap/blob/output/github-contribution-grid-snake.svg)
-  </div>
