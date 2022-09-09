@@ -36,8 +36,10 @@
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" target="_blank" height:"30" width="50" align="center">
    </a>
 
-<div align="right">
+<div>
   <img src="https://i.imgur.com/SOHOBEi.gif">
-  </div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme-ap&show_icons=true&theme=dark&title_color=ffb8b8&text_color=dedede&locale=en&layout=compact" alt="guilherme-ap" style="height:180px;max-height:100%;"/>
 
+  </div>
+ 
 ![Snake animation](https://github.com/Guilherme-ap/Guilherme-ap/blob/output/github-contribution-grid-snake.svg)
