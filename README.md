@@ -4,7 +4,9 @@
 👨🏼‍🎓 Sou aluno do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo em Guarulhos.
 <hr>
   <div>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-ap&layout=compact)](https://github.com/Guilherme-ap)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme-ap&show_icons=true&theme=dark&title_color=ffb8b8&text_color=dedede&locale=en&layout=compact" alt="Guilherme-ap" style="height:180px;max-height:100%;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-ap&show_icons=true&theme=dark&title_color=ffadd2&text_color=ededed&locale=en" alt="Guilherme-ap" style="height:180px;max-height:100%"/>
+</p>
 
   </div>
 
