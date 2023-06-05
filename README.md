@@ -3,9 +3,10 @@
 <h3 align="auto"> Welcome to my profile!</h3>
 👨🏼‍🎓 Sou aluno do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo em Guarulhos.
 <hr>
-<div align="auto">
-  <a href="https://github.com/Guilherme-ap">
-  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=Guilherme-ap&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={SEU_NOME_DE_USUÁRIO}&layout=compact)](https://github.com/{Guilherme-ap})
+  </div>
+
 
  <div>
    <h3 align="auto">📚studying </h3>
@@ -36,10 +37,6 @@
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" target="_blank" height:"30" width="50" align="center">
    </a>
 
-<div>
-  <img src="https://i.imgur.com/SOHOBEi.gif">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme-ap&show_icons=true&theme=dark&title_color=ffb8b8&text_color=dedede&locale=en&layout=compact" alt="guilherme-ap" style="height:180px;max-height:100%;"/>
 
-  </div>
  
 ![Snake animation](https://github.com/Guilherme-ap/Guilherme-ap/blob/output/github-contribution-grid-snake.svg)
