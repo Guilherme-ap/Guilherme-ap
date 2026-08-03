@@ -66,8 +66,6 @@ Também desenvolvo projetos pessoais voltados para desenvolvimento web e ferrame
 - 🌐 Portfólio  
   https://guilherme-ap.github.io/Portfolio/
 
-- 📱 WhatsApp  
-  https://wa.me/5511910576589
 
 ---
 
